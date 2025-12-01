@@ -4,7 +4,7 @@ The code in this toolbox implements "GoPrune: Accelerated Structured Pruning wit
 
 
 ### Testing
-Directly run demo.m for reproduction.
+Directly run demo.py for reproduction.
 
 ### Citation
 Please give credits to this paper if this code is useful and helpful for your research.
