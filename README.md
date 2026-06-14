@@ -1,6 +1,6 @@
 # GoPrune
 
-The code in this toolbox implements "GoPrune: Accelerated Structured Pruning with L2,p-Norm Optimization". 
+The code in this toolbox implements "GoPrune: Accelerated Structured Pruning with L2,p-Norm Optimization" by <i>L. Xu, X. Xiu</i>.
 
 
 ### Testing
